@@ -34,6 +34,9 @@ public class ListPractice {
       System.out.println(item);
     }
     // Print each value on a second line
+    for (String item : list) {
+      System.out.println(item);
+    }
 
     /*
      * Usage tip!
